@@ -1,0 +1,22 @@
+{
+  "name": "projeto3",
+  "version": "1.0.0",
+  "description": "Meu projeto com directive",
+  "main": "main.js",
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "start": "http-server -a localhost -p 8000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/seunome.git"
+  },
+  "author": "Seu nome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/seunome/issues"
+  },
+  "homepage": "https://github.com/github.com/seunome#readme"
+}
